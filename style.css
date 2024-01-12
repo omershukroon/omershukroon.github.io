@@ -1,0 +1,23 @@
+body{
+    background-image: url(image.png);
+    background-size: cover;
+    line-height: 1.7;
+}
+
+h1{
+    font-size: 55px;
+    color: rgb(36, 36, 36);
+}
+body div a{
+    font-size: 25px;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #333;
+    padding-right: 10px;
+}
+body div a:hover{
+    color: orange;
+}
+
+
+
